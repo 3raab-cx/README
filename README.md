@@ -1,22 +1,42 @@
 # 👾 EI3RAB: Ethical Hacker & Security Expert  
 
-Welcome to the official GitHub page of **EI3RAB**, a seasoned Python developer, networking expert, and cybersecurity professional. With a proven track record in reverse engineering, malware analysis, and bug bounty hunting, EI3RAB is dedicated to developing powerful tools and sharing knowledge with the security community.  
+Welcome to the official GitHub page of **EI3RAB**, a Python developer and cybersecurity expert specializing in creating advanced tools for ethical hacking and network security.  
+
+With expertise in reverse engineering, bug bounty hunting, and malware analysis, EI3RAB focuses on building powerful, effective tools to help individuals and organizations secure their systems.  
 
 ---
 
 ## 🚀 **Tools Developed by EI3RAB**  
-- **AntiRat**: Advanced tool to detect and mitigate RAT (Remote Access Trojan) attacks.  
-- **CrypterRat**: A robust encryption tool with seamless RootKit integration.  
-- **SecroKit**: A powerful toolkit designed for advanced cybersecurity operations.  
-- **SecroLeakBot**: Automated bot for detecting and analyzing sensitive data leaks.  
+
+### 🛡️ **AntiRat**  
+**Description**: A powerful tool to detect and mitigate payloads by identifying their connections to specific hosts.  
+- **Download**: [GitHub Repository](https://github.com/3raab-cx/AntiRat)  
+
+---
+
+### 🔒 **CrypterRat**  
+**Description**: A robust encryption tool that integrates payloads into a RootKit for advanced security.  
+- **Download**: [GitHub Repository](https://github.com/3raab-cx/CrypterRat-3.0)  
+
+---
+
+### 🛠️ **SecroKit**  
+**Description**: A toolkit for generating CMD-based exploits to penetrate systems effectively.  
+- **Purchase**: [Contact on Telegram](https://t.me/al3rab1235)  
+
+---
+
+### 🔍 **SecroLeakBot**  
+**Description**: A bot that finds leaked Facebook accounts of individuals by analyzing their leaked phone numbers.  
+- **Try it here**: [SecroFence Bot](https://t.me/SecroFencebot)  
 
 ---
 
 ## 🔍 **Expertise**  
-- **Python Programming**: Skilled in creating advanced tools and applications.  
-- **Networking**: Expert in building and securing networks.  
-- **Reverse Engineering**: In-depth knowledge of analyzing and deconstructing malicious software.  
-- **Bug Bounty Hunting**: Identifying and reporting security vulnerabilities in web applications and systems.  
+- **Python Programming**: Advanced tool and bot development.  
+- **Networking**: Expert in identifying vulnerabilities and securing systems.  
+- **Reverse Engineering**: In-depth malware deconstruction and analysis.  
+- **Bug Bounty Hunting**: Finding and reporting vulnerabilities in various platforms.  
 
 ---
 
@@ -32,9 +52,4 @@ Welcome to the official GitHub page of **EI3RAB**, a seasoned Python developer, 
 
 ---
 
-## 🛠️ **Collaborations**  
-EI3RAB is part of **Ghostbyte**, a group focused on cybersecurity, ethical hacking, and tool development.  
-
----
-
-💡 **Stay secure. Stay ahead. Follow EI3RAB for the latest in cybersecurity tools and techniques!**
+💡 **Stay secure. Stay ahead. Explore EI3RAB's tools to enhance your security arsenal!**
